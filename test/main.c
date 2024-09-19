@@ -1,4 +1,4 @@
-#include "mathPhysToolkit.h"
+#include "../include/mathPhysToolkit.h"
 
 int main() {
     setlocale(LC_ALL, "");

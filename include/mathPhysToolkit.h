@@ -4,10 +4,10 @@
 #include <math.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <locale>
+#include <locale.h>
+#include <ctype.h>
+#include <string.h>
 
-int menor(int a, int b);
-
-int maior(int a, int b);
+float calculadora(char *text);
 
 #endif
